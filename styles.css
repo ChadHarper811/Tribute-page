@@ -1,0 +1,48 @@
+body {
+background-color: black;
+margin: 0;
+}
+
+main {
+margin: 20px 80px 20px 80px;
+text-align: center;
+}
+
+#img-div {
+margin: 0 auto 0 auto;
+width: 40vw;
+}
+
+#image {
+display: block;
+max-width: 100%;
+}
+
+.txt-white {
+color: white;
+}
+
+.quote {
+font-style: oblique;
+color: gray;
+}
+
+ul {
+text-align: left;
+}
+
+.lightgray {
+background-color: lightgray;
+margin: 0 30px 0 0;
+}
+
+#tribute-info {
+background-color: gray;
+padding: 5px 0 50px 0;
+}
+
+.info {
+list-style: none;
+text-align: center;
+margin:0 auto 0 auto;
+}
